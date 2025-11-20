@@ -33,20 +33,6 @@ It also generates summaries, suggestions, and an auto-extracted legal glossary.
 
 ---
 
-## Project Structure
-
-```
-app.py
-rag_pipeline.py
-templates/
-static/
-uploads/
-requirements.txt
-README.md
-```
-
----
-
 ## Setup
 
 ### 1. Clone the repository
