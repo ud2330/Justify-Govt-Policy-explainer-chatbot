@@ -1,4 +1,4 @@
-JUSTIFY — Government Laws & Policies Explainer Chatbot
+##**JUSTIFY — Government Laws & Policies Explainer Chatbot**
 
 A Python-based legal document assistant built using Retrieval-Augmented Generation (RAG).
 Justify processes legal documents, chunks and embeds them, retrieves relevant sections, and provides accurate legal explanations using an LLM.
