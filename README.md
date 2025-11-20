@@ -52,8 +52,8 @@ README.md
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/justify.git
-cd justify
+git clone https://github.com/ud2330/Justify-Govt-Policy-explainer-chatbot.git
+cd Justify-Govt-Policy-explainer-chatbot
 ```
 
 ### 2. Create virtual environment
